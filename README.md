@@ -89,16 +89,15 @@ A comprehensive cross-platform mobile application for public open space conserva
 </td>
 <td width="50%">
 
-### Your Next Project
+### UPCOMING PROJECT
 [![](https://img.shields.io/badge/Coming_Soon-000000?style=for-the-badge)](https://github.com/RahimHamisi)
 
 Building something amazing with MERN stack
 
-**Tech:** MongoDB, Express, React, Node.js
+**Tech:** MongoDB, Express, React,Tailwindcss, Node.js
 
 **Features:**
 - RESTful API
-- Docker deployment
 - Modern UI
 
 </td>
